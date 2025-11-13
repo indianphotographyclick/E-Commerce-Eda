@@ -3,6 +3,8 @@ This dataset provides a comprehensive view of an e-commerce platform, featuring 
 
 This Dataset Is Well-Suited For Analysis & Research Purposes:
 
-Exploratory Data Analysis (EDA): Analyze sales trends, product popularity, and customer preferences.
+Exploratory Data Analysis (EDA): 
+
+Analyze sales trends, product popularity, and customer preferences.
 Visualization: Create insightful charts to visualize product performance, regional sales, and shipping trends.
 Customer Insights: Understand customer segmentation based on demographics, preferences, and location.
